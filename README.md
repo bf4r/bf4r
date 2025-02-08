@@ -19,11 +19,11 @@ Working apps.
 ### [slap](https://github.com/bf4r/slap) (1)
 A framework for simulating the real world using objects in C#. Create People, let them create other people, let them live and do actions. Everything is logged and monitored. Includes time travel!
 
-### [az](https://github.com/bf4r/az) (1)
-Flexible autonomous* and configurable AI agent. Ask it something, it will think, then respond with code, which is then executed to help solve the task and **manipulate with files** on your system. Bring your own API key.
-
 ### [dsm](https://github.com/bf4r/dsm) (1)
 A custom interpreted programming language. Whitespace is ignored in this language, so you can go crazy with one-line programs. It's not readable at first, but only until you dive into the instruction map.
+
+### [az](https://github.com/bf4r/az) (1)
+Flexible autonomous* and configurable AI agent. Ask it something, it will think, then respond with code, which is then executed to help solve the task and **manipulate with files** on your system. Bring your own API key.
 
 ### [myla](https://github.com/bf4r/myla) (1)
 A discord bot made in Python. Allows you to talk to AI language models like GPT, Claude, Gemini, Llama or any other model using an OpenAI-compatible API such as [OpenRouter](https://openrouter.ai). Configurable with Python files. Includes commands such as .ai, .aichats, .aisystem and more. Type **.help** for help.
