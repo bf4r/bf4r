@@ -9,5 +9,6 @@ soft~ware
 - [clibits](https://github.com/bf4r/clibits) - Smaller projects
 - [tush](https://github.com/bf4r/tush) - CLI multitool
 - [medit](https://github.com/bf4r/medit) - Text editor
+- [termie](https://github.com/bf4r/termie) - Terminal image viewer
 - [living-room](https://github.com/bf4r/living-room) - 3D living room in browser
 - [easy-flux](https://github.com/bf4r/easy-flux) - CLI interface for the Replicate API
