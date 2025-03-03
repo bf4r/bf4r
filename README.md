@@ -6,6 +6,7 @@ soft~ware
 - [dsm](https://github.com/bf4r/dsm) - Programming language
 - [az](https://github.com/bf4r/az) - AI agent
 - [myla](https://github.com/bf4r/myla) - Discord bot
+- [merges](https://github.com/bf4r/merges) - TUI merging game
 - [clibits](https://github.com/bf4r/clibits) - Smaller projects
 - [tush](https://github.com/bf4r/tush) - CLI multitool
 - [medit](https://github.com/bf4r/medit) - Text editor
